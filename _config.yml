@@ -1,4 +1,4 @@
 title: bb-pages-build-lab
-remote_theme: fbettag/bb-pages-evil-theme
+remote_theme: fbettag/bb-pages-evil-theme@main
 plugins:
   - jekyll-remote-theme
